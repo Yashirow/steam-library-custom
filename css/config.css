@@ -84,7 +84,7 @@
     --Font: "Motiva Sans", Arial, Helvetica, sans-serif; /* Any font on the system */
     --FontStyle: uppercase; /* Set to [ lowercase | uppercase | none ] */
     --LetterSpacing: 3px !important; /* Set 3px or more */
-    --YourLibraryName: "YOUR LIBRARY" !important; /* Set your own library name */
+    --YourLibraryName: "YASHIRO" !important; /* Set your own library name */
     --BackgroundColor: transparent; /* Button background color */
     --LibraryButton: flex; /* Hide/Show Library Button, Set to [ none | flex ] */
     --LibrarySearch: flex; /* Hide/Show Library Button, Set to [ none | flex ] */
