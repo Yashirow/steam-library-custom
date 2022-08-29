@@ -1,2 +1,2 @@
-# steam-library-custom
-Personal overhaul of AikoMidori's steam-library
+# Steam Library
+Personal overhaul of AikoMidori's [steam-library](https://github.com/AikoMidori/steam-library)
