@@ -98,14 +98,14 @@
 
 /* Sidebar Searchbar */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY:hover {
-  border-radius: var(--Corner0) !important;
+  border-radius: var(--Corner5) !important;
   margin-left: 10px;
 }
 
 /* Sidebar Searchbar Color */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase {
   background: var(--search) !important;
-  border-radius: var(--Corner1) !important;
+  border-radius: var(--Corner6) !important;
   padding-right: 20px !important;
   padding-left: 10px !important;
 }
@@ -113,7 +113,7 @@
 /* Sidebar Searchbar Hover Color */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_SearchInput_12vo5 .DialogTextInputBase:hover {
   background: var(--searchhover) !important;
-  border-radius: var(--Corner1) !important;
+  border-radius: var(--Corner6) !important;
   padding-right: 20px !important;
   padding-left: 10px !important;
 }
