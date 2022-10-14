@@ -98,7 +98,7 @@
 
 /* Sidebar Searchbar */
 .gamelistsearchbar_Container_20QAC .gamelistsearchbar_AdvancedSearchContainer_vCCmY:hover {
-  border-radius: var(--Corner5) !important;
+  border-radius: 100px !important;
   margin-left: 10px;
 }
 
