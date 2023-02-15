@@ -251,3 +251,11 @@
 .library_TopGradient_34Cqr {
     display: var(--TopShadow) !important;
 }
+
+/* Launch Option Dialog Box */
+[class*="launchoptionsdialog_LaunchOptionDialog_"],[class*="launchoptionsdialog_ListItem_"],[class*="launchoptionsdialog_OptionList_"],[class*="launchoptionsdialog_ListContainer_"] {
+    background: var(--librarybg) !important;
+}
+[class*="launchoptionsdialog_PlayButton_"], [class*="launchoptionsdialog_CancelButton_"] {
+    background: var(--ButtonPlay) !important;
+}
