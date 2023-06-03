@@ -154,6 +154,6 @@
     /******************************/
     /* Remove the Dropdown button next to play */
     --hidedlimage: flex !important; /* Set to [ none | flex ] */
-    --hidedlgraph: none !important; /* Set to [ none | flex ] */
+    --hidedlgraph: flex !important; /* Set to [ none | flex ] */
 
 }
